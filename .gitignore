@@ -1,0 +1,9 @@
+.DS_Store
+.vscode
+.wing
+.idea
+
+/bin-debug
+/bin-release
+/libs
+/manifest.json

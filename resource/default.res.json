@@ -1,0 +1,229 @@
+{
+	"groups": [
+		{
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json",
+			"name": "preload"
+		},
+		{
+			"keys": "0_jpg,1_jpg,2_jpg,3_jpg,4_jpg,5_jpg,6_jpg,7_jpg,8_jpg,bomb_jpg,bomb0_jpg,cry_png,cube_jpg,flag_jpg,flag2_jpg,normal_png,smile_png",
+			"name": "game_mine_sweeper"
+		}
+	],
+	"resources": [
+		{
+			"url": "assets/CheckBox/checkbox_select_disabled.png",
+			"type": "image",
+			"name": "checkbox_select_disabled_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_down.png",
+			"type": "image",
+			"name": "checkbox_select_down_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_select_up.png",
+			"type": "image",
+			"name": "checkbox_select_up_png"
+		},
+		{
+			"url": "assets/CheckBox/checkbox_unselect.png",
+			"type": "image",
+			"name": "checkbox_unselect_png"
+		},
+		{
+			"url": "assets/ItemRenderer/selected.png",
+			"type": "image",
+			"name": "selected_png"
+		},
+		{
+			"url": "assets/Panel/border.png",
+			"type": "image",
+			"name": "border_png"
+		},
+		{
+			"url": "assets/Panel/header.png",
+			"type": "image",
+			"name": "header_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_disabled.png",
+			"type": "image",
+			"name": "radiobutton_select_disabled_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_down.png",
+			"type": "image",
+			"name": "radiobutton_select_down_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_select_up.png",
+			"type": "image",
+			"name": "radiobutton_select_up_png"
+		},
+		{
+			"url": "assets/RadioButton/radiobutton_unselect.png",
+			"type": "image",
+			"name": "radiobutton_unselect_png"
+		},
+		{
+			"url": "assets/ScrollBar/roundthumb.png",
+			"type": "image",
+			"name": "roundthumb_png"
+		},
+		{
+			"url": "assets/Slider/thumb.png",
+			"type": "image",
+			"name": "thumb_png"
+		},
+		{
+			"url": "assets/Slider/track.png",
+			"type": "image",
+			"name": "track_png"
+		},
+		{
+			"url": "assets/Slider/tracklight.png",
+			"type": "image",
+			"name": "tracklight_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/handle.png",
+			"type": "image",
+			"name": "handle_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/off.png",
+			"type": "image",
+			"name": "off_png"
+		},
+		{
+			"url": "assets/ToggleSwitch/on.png",
+			"type": "image",
+			"name": "on_png"
+		},
+		{
+			"url": "assets/Button/button_down.png",
+			"type": "image",
+			"name": "button_down_png"
+		},
+		{
+			"url": "assets/Button/button_up.png",
+			"type": "image",
+			"name": "button_up_png"
+		},
+		{
+			"url": "assets/ProgressBar/thumb_pb.png",
+			"type": "image",
+			"name": "thumb_pb_png"
+		},
+		{
+			"url": "assets/ProgressBar/track_pb.png",
+			"type": "image",
+			"name": "track_pb_png"
+		},
+		{
+			"url": "assets/ScrollBar/track_sb.png",
+			"type": "image",
+			"name": "track_sb_png"
+		},
+		{
+			"url": "assets/bg.jpg",
+			"type": "image",
+			"name": "bg_jpg"
+		},
+		{
+			"url": "assets/egret_icon.png",
+			"type": "image",
+			"name": "egret_icon_png"
+		},
+		{
+			"url": "config/description.json",
+			"type": "json",
+			"name": "description_json"
+		},
+		{
+			"url": "game/mine_sweeper/0.jpg",
+			"type": "image",
+			"name": "0_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/1.jpg",
+			"type": "image",
+			"name": "1_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/2.jpg",
+			"type": "image",
+			"name": "2_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/3.jpg",
+			"type": "image",
+			"name": "3_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/4.jpg",
+			"type": "image",
+			"name": "4_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/5.jpg",
+			"type": "image",
+			"name": "5_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/6.jpg",
+			"type": "image",
+			"name": "6_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/7.jpg",
+			"type": "image",
+			"name": "7_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/8.jpg",
+			"type": "image",
+			"name": "8_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/bomb.jpg",
+			"type": "image",
+			"name": "bomb_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/bomb0.jpg",
+			"type": "image",
+			"name": "bomb0_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/cry.png",
+			"type": "image",
+			"name": "cry_png"
+		},
+		{
+			"url": "game/mine_sweeper/cube.jpg",
+			"type": "image",
+			"name": "cube_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/flag.jpg",
+			"type": "image",
+			"name": "flag_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/flag2.jpg",
+			"type": "image",
+			"name": "flag2_jpg"
+		},
+		{
+			"url": "game/mine_sweeper/normal.png",
+			"type": "image",
+			"name": "normal_png"
+		},
+		{
+			"url": "game/mine_sweeper/smile.png",
+			"type": "image",
+			"name": "smile_png"
+		}
+	]
+}

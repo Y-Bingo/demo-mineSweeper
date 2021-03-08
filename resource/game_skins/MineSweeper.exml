@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<e:Skin class="skins.MineSweeper"
+	 width="750"
+	height="1334" xmlns:e="http://ns.egret.com/eui">
+	<e:Group id="gp_mineMap" horizontalCenter="0" verticalCenter="0" touchEnabled="false"/>
+	<e:Group id="gp_menu" top="0" horizontalCenter="0" touchEnabled="false">
+		<e:Button id="btn_reset" label="重置" x="0" y="0"/>
+		<e:Button label="造雷" x="160.7" y="0.05" id="btn_generate"/>
+		<e:Button label="埋雷" x="285.85" y="1.52" id="btn_shuffle"/>
+		<e:Button label="布局计算" x="415.27" y="2.99" id="btn_count"/>
+		<e:Button label="覆盖" x="503.46" y="67.01" id="btn_cover"/>
+		<e:Button label="开始" x="268.94" y="140.99" id="btn_start"/>
+		<e:layout>
+			<e:HorizontalLayout gap="20" paddingTop="50"/>
+		</e:layout>
+	</e:Group>
+</e:Skin>
